@@ -24,7 +24,7 @@ $ make container
 If you are running in Kubernetes, it will pull the image from GCR for you. Or you can do it yourself.
 
 ```
-$ docker pull k8s.gcr.io/sig-storage/nfs-provisioner:v3.0.0
+$ docker pull k8s.gcr.io/sig-storage/nfs-provisioner:v4.0.0
 ```
 
 ## Deploying the provisioner
